@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/twitter-api
+
+---
+
+
 # twitter-api
 
 This is an up-to-date twitter API wrapper that is based on the clojure http.async.client library. It offers the full taxonomy of twitter API's (streaming, search and restful) and has been tested to be working. The test coverage is reasonably complete, but I suppose more could be added.
